@@ -88,3 +88,6 @@ Create a table that breaks down school performance based on school size (small, 
 ### Scores by School Type
 
 Create a table that breaks down school performance based on type of school (district or charter).
+
+# pandas-challenge-Heroes of Pymoli
+This did not have instructions in a readme file. followed the steps in the starter jupyter notebook. The tasks mirrored the pycityschools instructions.
